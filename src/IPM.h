@@ -2,7 +2,7 @@
  * IMP.h
  *
  *  Created on: Apr 16, 2013
- *      Author: airthimble
+ *      Author: Joseph St.Amand
  */
 
 #ifndef IMP_H_
