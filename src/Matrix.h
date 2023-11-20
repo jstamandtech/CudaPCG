@@ -2,7 +2,7 @@
  * Matrix.h
  *
  *  Created on: Mar 9, 2013
- *      Author: j817s517
+ *      Author: Joseph St.Amand
  */
 
 #ifndef MATRIX_H_
