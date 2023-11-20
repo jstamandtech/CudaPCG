@@ -2,7 +2,7 @@
  * PCG.h
  *
  *  Created on: Apr 15, 2013
- *      Author: airthimble
+ *      Author: Joseph St.Amand
  */
 
 #ifndef PCG_H_
