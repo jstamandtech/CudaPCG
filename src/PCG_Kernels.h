@@ -2,7 +2,7 @@
  * PCG_Kernels.h
  *
  *  Created on: Apr 21, 2013
- *      Author: airthimble
+ *      Author: Joseph St.Amand
  */
 
 #ifndef PCG_KERNELS_H_
