@@ -2,7 +2,7 @@
  * matlabInterface.h
  *
  *  Created on: Mar 9, 2013
- *      Author: j817s517
+ *      Author: Joseph St.Amand
  */
 
 #ifndef MATLABINTERFACE_H_
